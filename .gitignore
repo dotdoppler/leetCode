@@ -25,5 +25,5 @@ target/
 .gradle
 build
 /buildut
-out
+out/
 
