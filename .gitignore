@@ -1,0 +1,28 @@
+# Misc
+*~
+.#*
+dependency-reduced-pom.xml
+.DS_Store
+gradle/
+data/
+tmp/
+*.sw[op]
+classes/
+.new-relic/
+test.log
+logs/
+work/
+target/
+.bower-*
+
+# IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle
+build
+/buildut
+
