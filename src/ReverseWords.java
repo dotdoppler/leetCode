@@ -24,8 +24,4 @@ public class ReverseWords {
         }
         return new String(s);
     }
-
-    public String solution(String s) {
-
-    }
 }
